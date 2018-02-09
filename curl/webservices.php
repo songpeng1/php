@@ -3,7 +3,7 @@
  * 实例描述：通过调用webservice查询北京的当前天气
  * 
  */
-
+header("charset:utf-8");
 $data='Dream=朋友';
 $curlobj=curl_init();
 
