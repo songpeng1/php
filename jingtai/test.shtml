@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>静态化实例</title>
+<meta chartset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="./template/index.css">
+</head>
+<body>
+<div class="head">页头</div>
+
+<ul>
+<li>新闻1</li><li>新闻2</li><li>新闻3</li><li>新闻4</li></ul>
+
+<div class="head">页脚</div>
+
+</body>
+
+</html>
